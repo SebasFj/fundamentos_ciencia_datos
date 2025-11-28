@@ -74,20 +74,6 @@ Se presenta un resumen de los hallazgos y del estado final del dataset después 
 
 ---
 
-## Resultados Principales
-
-- El dataset final queda conformado por **8 variables predictoras** más la variable objetivo.  
-- El número de registros pasa de 12 330 a **11 713**.  
-- No existían valores faltantes en el dataset original, por lo que no fue necesaria la imputación.  
-- El dataset final contiene:
-  - 1 variable categórica  
-  - 3 variables continuas  
-  - 3 variables discretas  
-  - 2 variables binarias (incluyendo la variable objetivo)  
-- Se realizó un ejercicio de reducción dimensional mediante **PCA**, aunque finalmente no se utilizaron los componentes para sustituir las variables originales.
-
----
-
 ## Ejecución del Proyecto
 
 Para ejecutar el proyecto:
